@@ -17,19 +17,22 @@ seven stories, each drawn with its own pictogram and a short factual label:
 
 - **Lead:** Donald Trump, Xi Jinping and Vladimir Putin hold the first-ever
   trilateral summit in Shenzhen and issue a Peace Declaration on nuclear
-  risk, fuel supply and UN reform — with no mention of Ukraine or Iran.
+  risk, fuel supply and UN reform — with no mention of Ukraine or Iran, and
+  no arms-control timetable.
 - The World Court finds Myanmar committed genocide against the Rohingya,
-  the first time it has held a state responsible; reparations ordered.
+  the first time in its 80-year history it has held a state responsible;
+  reparations are ordered.
 - Grand Theft Auto VI launches worldwide and scores 99 on Metacritic,
   13 years after GTA V.
 - Bangladesh burns as an Awami League lockdown bites: Muhammad Yunus's
-  ancestral home is torched and at least 4 are reported killed.
+  ancestral home is torched and at least 4 are reported killed in a week
+  of violence.
 - Ukraine hits the Crimean Bridge for a third time in a week; rail is
   halted and the road shut.
-- Cyclone Akvan: Odisha evacuates coastal districts, 80,000 people moved
-  ahead of landfall due Friday noon.
+- Cyclone Akvan: 80,000 flee as Odisha evacuates its coast, with landfall
+  due Friday noon.
 - COP31's draft deal is cut from 144 to 80 paragraphs and drops every
-  mention of fossil fuels; no final deal yet as talks close.
+  mention of fossil fuels.
 
 Everything is drawn with a hand-written 5×7 bitmap font and a minimal
 PNG encoder written in the same file.
